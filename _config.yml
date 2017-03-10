@@ -1,0 +1,151 @@
+name: Agencija Connect Portfolio
+analytics:
+  google: UA-19682937-18
+purpose:
+  - type: contact
+    url: 'tel:38763313588'
+    label: Pozovi +38763313588
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatraži ponudu
+github: true
+description: >-
+  Knjige Grafičkih Standarda, Dizajn Logotipa, Izrada Web Stranica, Internet
+  Oglasne Kampanje...
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOvj3gZ-DwcU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOvj3gZ-DwcU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOvj3gZ-DwcU%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      datePublished: null
+      app_links:
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: ios
+        - package: com.google.android.youtube
+          app_name: YouTube
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: android
+        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: web
+          namespace: ai
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: ipad
+          name: YouTube
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: iphone
+          name: YouTube
+        - id: com.google.android.youtube
+          namespace: twitter
+          url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU'
+          type: googleplay
+          name: YouTube
+        - path: http/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: '544007664'
+          namespace: google
+          type: ios
+      author:
+        - name: CONNECT/Tržišne komunikacije
+          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
+          avatar: {}
+      inLanguage: en
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
+      title: Naslovna
+      '@type': VideoObject
+      keywords:
+        - naslovna
+        - strana
+        - duration
+        - views
+        - kviz
+        - nikola
+        - sre
+        - svet
+        - mori
+        - rouzin
+      publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: youtu.be
+      '@context': 'http://schema.org'
+      related: []
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: Home
+    url: 'http://connect365.online/'
+  - type: external
+    name: Usluge
+    url: 'http://usluge.connect365.online/'
+  - type: external
+    name: Blog
+    url: 'http://blog.connect365.online/'
+  - type: external
+    name: Kontakt
+    url: 'http://connect365.online/o-nama'
+  - type: external
+    name: Zanimljivosti
+    url: 'http://zanimljivosti.connect365.online/'
+layout_spectrum: 0.215449457289651
+color:
+  lightness: 0.5934647398535162
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.3337424206547439
+  brandStrength: 0.9030906630214304
+  rhythmicContrast: 0.4996962214354426
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae273fbd-ec44-49ea-9f78-0308b3bf3bd6.png
+content_rating:
+  adult: false
+typography_spectrum: 0.4728739322163165
+opengraph: {}
+title: Pogledajte naše radove
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f4b8d6-3cfb-4b23-b136-ad12ac93683f.png
+url: 'https://portfolio.connect365.online'
