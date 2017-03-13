@@ -1,3 +1,16 @@
+layout_spectrum: 0.14369276264036943
+typography_spectrum: 0.4169664999114183
+color:
+  lightness: 0.3460910568572581
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.9448110901313548
+  brandStrength: 0.25602587981444624
+  rhythmicContrast: 0.32251201577346295
 name: Agencija Connect Portfolio
 analytics:
   google: UA-19682937-18
@@ -127,23 +140,10 @@ navigation:
   - type: external
     name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
-layout_spectrum: 0.215449457289651
-color:
-  lightness: 0.5934647398535162
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  saturation: 0.3337424206547439
-  brandStrength: 0.9030906630214304
-  rhythmicContrast: 0.4996962214354426
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae273fbd-ec44-49ea-9f78-0308b3bf3bd6.png
 content_rating:
   adult: false
-typography_spectrum: 0.4728739322163165
 opengraph: {}
 title: Pogledajte naše radove
 logo: >-
