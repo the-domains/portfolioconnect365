@@ -5,8 +5,8 @@ description: >-
   klijenta. Osmišljavanje logotipa, promotivnih materijala, dizajn web stranice
   (www.vitalis.ba) i osmišljavanje cijele oglašavačke strategije na društvenim
   mrežama bio je zadatak koji smo uspješno obavili.
-dateModified: '2017-03-13T09:59:10.694Z'
-datePublished: '2017-03-13T09:59:12.271Z'
+dateModified: '2017-03-16T08:37:10.186Z'
+datePublished: '2017-03-16T08:37:12.203Z'
 title: 'Vizaulni Identitet, Izrada Web Stranice i Internet Oglašavanje'
 author: []
 publisher: {}
@@ -30,6 +30,10 @@ Ovo je jedan tipičan primjer vizualnog identiteta koji smo radili za našega kl
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda7ae66-7ded-4b3e-a4f6-fa20423a6087.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf64f3d4-40f2-4bec-9b69-d4201376ee9e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67c9858-cbe0-4bc0-a19b-e5bc3e7edec6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1171742-2b85-489c-a93b-fddb09e57494.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9b3932d-6896-4a2b-aa23-8275632d01fa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5fbc8c-f315-4b29-8352-90a9a8550792.jpg)
 
 [0]: http://www.vitalis.ba/
